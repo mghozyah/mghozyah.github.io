@@ -1162,13 +1162,13 @@ section .container {
   z-index: 999999;
 }
 
-@media (max-width: 992px) {
+/* @media (max-width: 992px) {
   .credits {
     text-align: center;
     padding: 10px;
     background: rgba(0, 0, 0, 0.8);
   }
-}
+} */
 
 .credits a {
   color: #18d26e;
