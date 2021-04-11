@@ -1,2 +1,2 @@
 # My Portofolio
-Go to [mghozyah.github.io](mghozyah.github.io)
+Go to [mghozyah.github.io](https://mghozyah.github.io)
